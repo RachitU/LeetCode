@@ -1,1 +1,1 @@
-Made with [a link](https://github.com/raphaelheinz/LeetHub-3.0)
+Made with [LeetHub3.0](https://github.com/raphaelheinz/LeetHub-3.0)
