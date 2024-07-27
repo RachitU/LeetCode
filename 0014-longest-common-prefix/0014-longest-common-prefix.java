@@ -5,12 +5,9 @@ class Solution {
         String pre = strs[0];
         for (String r : strs) {
             while (r.indexOf(pre) != 0) {
-
                 pre = pre.substring(0, (pre.length() - 1));
-
             }
         }
-
         return pre;
 
     }
